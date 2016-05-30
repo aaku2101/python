@@ -1,4 +1,5 @@
 #program to censor repeated word by * 
+#By aakash shah
 def censor(text, word):
     result=""
     final=[]
